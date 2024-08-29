@@ -1,1 +1,1 @@
-Employee Wage Compensation Program
+Employee Wage Compensation Program for Company
